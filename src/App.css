@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+.input-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+input,
+select,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  color: green;
+}
