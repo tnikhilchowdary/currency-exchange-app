@@ -22,7 +22,7 @@ A simple and responsive currency converter built with **React.js** using real-ti
 
 ## Demo Screenshot
 
-![Currency Converter Screenshot](./screenshot.png)
+![Currency Converter Screenshot](.src/screenshot.png)
 
 > Add your screenshot as `screenshot.png` in the project root.
 
